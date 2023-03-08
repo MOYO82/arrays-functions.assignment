@@ -5,7 +5,7 @@
 // Mutation arrays method changes the array itself without returning a new array with the new changes while 
 // Non-Mutation returns a completely new array with all the changes.
 
-// mutation methods change object when is in use while on the other hand nonmutation does not 
+// Mutation methods change object when is in use while on the other hand nonmutation does not 
 //cause any change on the object.
 
 
